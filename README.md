@@ -1,6 +1,4 @@
-# Repository Name
-
-## Description
+# DelphiDocumentTree
 This repository is dedicated to a powerful system that efficiently organizes the contents of a text file into a beautiful and intuitive hierarchical tree structure. The system provides seamless import and export functionalities, making it easy to work with tree data.
 
 ## Features
